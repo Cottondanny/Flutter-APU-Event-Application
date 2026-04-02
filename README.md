@@ -43,6 +43,20 @@ This application provides a centralized platform for students to discover events
  
 ---
 
+## 📷 Screenshots
+
+### Event Feed
+![Event Feed](screenshots/EventPage.png)
+
+### Event Details
+![Event Details](screenshots/EventDetails.png)
+
+### Calendar Page
+![Calendar](screenshots/CalendarPage.png)
+
+### Profile Page
+![Profile](screenshots/ProfilePage.png)
+
 ## 👨‍💻 My Contribution
 
 Developed the **student-facing interface**, including:
